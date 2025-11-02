@@ -1,8 +1,9 @@
 # 🏦 Bank Loan Analytics Using SQL Server & Power BI
 
-### 📊 Data-Driven KPI and Dashboard Reporting
+### [📊 Data-Driven KPI and Dashboard Reporting](https://ashutoshpant.netlify.app/visuals/bank-loan-analytics)
 
-![Project Banner](BANK%20LOAN%20DATA%20ANALYSIS/Screenshots/Dashboard2_Overview.png)
+[![Project Banner](BANK%20LOAN%20DATA%20ANALYSIS/Screenshots/Dashboard2_Overview.png)](https://ashutoshpant.netlify.app/visuals/bank-loan-analytics)
+
 
 ---
 
